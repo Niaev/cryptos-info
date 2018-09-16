@@ -1,0 +1,29 @@
+body {
+	font-family: Arial;
+}
+
+hr {
+	border-top: 1px solid #000000;
+	border-right: 0;
+	border-bottom: 0;
+	border-left: 0;
+}
+
+.cabecalho * {
+	display: inline;
+}
+
+.cabecalho b {
+	float: right;
+}
+
+.cabecalho select {
+	width: 150px;
+	max-width: 150px;
+}
+
+.simbolo {
+	font-size: 30px;
+	font-style: bolder;
+	margin-right: 10px;
+}
