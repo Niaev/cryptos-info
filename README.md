@@ -1,11 +1,10 @@
-# cryptos-info
- - Informação de 101 criptomoedas
+# cryptos-info - InformaÃ§Ã£o de 101 criptomoedas
 
-Essa aplicação web fornece a cotação de 101 criptomoedas (as Top 100 do [Cryptocurrency Market Capitalization](https://coinmarketcap.com) + a NevaCoin), o percentual de mudança na última hora, no último dia e na última semana, além da cotação do dólar americano em real. Basta baixar os arquivos desse repositório e executar o ```index.html``` no seu navegador, depois selecionar a moeda na lista de opções que aparecerá suas devidas informações.
+Essa aplicaÃ§Ã£o web fornece a cotaÃ§Ã£o de 101 criptomoedas (as Top 100 do [Cryptocurrency Market Capitalization](https://coinmarketcap.com) + a NevaCoin), o percentual de mudanÃ§a na Ãºltima hora, no Ãºltimo dia e na Ãºltima semana, alÃ©m da cotaÃ§Ã£o do dÃ³lar americano em real. Basta baixar os arquivos desse repositÃ³rio e executar o ```index.html``` no seu navegador, depois selecionar a moeda na lista de opÃ§Ãµes que aparecerÃ¡ suas devidas informaÃ§Ãµes.
 
 ## Nota importante:
 
-- O código está todo comentado, então está bem fácil de entender
-- Se observar o código, verá que uso duas APIs. A que solicita informações das moedas pode bloquer seu acesso se enviar várias requisições.
+- O cÃ³digo estÃ¡ todo comentado, entÃ£o estÃ¡ bem fÃ¡cil de entender
+- Se observar o cÃ³digo, verÃ¡ que uso duas APIs. A que solicita informaÃ§Ãµes das moedas pode bloquer seu acesso se enviar vÃ¡rias requisiÃ§Ãµes.
 
-Faça bom uso :)
+FaÃ§a bom uso :)
